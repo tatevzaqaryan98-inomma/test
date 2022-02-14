@@ -41,6 +41,8 @@ class Game {
       }
     }
 
+    //  test
+
     for (let i = 0; i < this.column; i++) {
       for (let j = 0; j < this.rows - 2; j++) {
         if (
